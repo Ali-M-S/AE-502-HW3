@@ -1,3 +1,2 @@
-# AE-502-HW3
-[final_2] is the code for question 2.
+Code for Sattelite orbit plotter in Cartesian Non-rotating space for variable time units using Delaunay variables.<br><br>
 [caller.m] and [ic.m] are for the bonus question
